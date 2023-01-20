@@ -1,10 +1,10 @@
-package com.bookstore.orderservice;
+package com.boookstore.orderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrderServiceApplicationTests {
+class OrderserviceApplicationTests {
 
 	@Test
 	void contextLoads() {

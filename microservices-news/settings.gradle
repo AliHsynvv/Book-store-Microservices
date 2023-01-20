@@ -1,0 +1,5 @@
+rootProject.name = 'microservices-news'
+include 'book-service'
+include 'order-service'
+include 'inventory-service'
+

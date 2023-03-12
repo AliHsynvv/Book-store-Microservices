@@ -1,0 +1,11 @@
+com\boookstore\orderservice\dto\OrderRequest.class
+com\boookstore\orderservice\model\OrderLineItems.class
+com\boookstore\orderservice\model\Order.class
+com\boookstore\orderservice\OrderserviceApplication.class
+com\boookstore\orderservice\repository\OrderRepository.class
+com\boookstore\orderservice\service\OrderService.class
+com\boookstore\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\boookstore\orderservice\dto\OrderLineItemsDto.class
+com\boookstore\orderservice\config\WebClientConfig.class
+com\boookstore\orderservice\controller\OrderController.class
+com\boookstore\orderservice\dto\InventoryResponse.class

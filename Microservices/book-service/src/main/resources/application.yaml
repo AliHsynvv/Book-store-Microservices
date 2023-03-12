@@ -1,0 +1,12 @@
+Spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/product-service
+  application:
+    name: book-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+server:
+  port: 0

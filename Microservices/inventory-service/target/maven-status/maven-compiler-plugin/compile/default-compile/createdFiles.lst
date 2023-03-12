@@ -1,0 +1,7 @@
+com\bookstore\inventoryservice\InventoryServiceApplication.class
+com\bookstore\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\bookstore\inventoryservice\dto\InventoryResponse.class
+com\bookstore\inventoryservice\controller\InventoryController.class
+com\bookstore\inventoryservice\service\InventoryService.class
+com\bookstore\inventoryservice\repository\InventoryRepository.class
+com\bookstore\inventoryservice\model\Inventory.class
